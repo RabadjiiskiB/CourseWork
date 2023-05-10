@@ -1,0 +1,12 @@
+D:\КурсоваРабота\КурсоваРабота\bin\Debug\КурсоваРабота.exe.config
+D:\КурсоваРабота\КурсоваРабота\bin\Debug\КурсоваРабота.exe
+D:\КурсоваРабота\КурсоваРабота\bin\Debug\КурсоваРабота.pdb
+D:\КурсоваРабота\КурсоваРабота\obj\Debug\КурсоваРабота.csproj.AssemblyReference.cache
+D:\КурсоваРабота\КурсоваРабота\obj\Debug\КурсоваРабота.csproj.SuggestedBindingRedirects.cache
+D:\КурсоваРабота\КурсоваРабота\obj\Debug\КурсоваРабота.Form1.resources
+D:\КурсоваРабота\КурсоваРабота\obj\Debug\КурсоваРабота.Properties.Resources.resources
+D:\КурсоваРабота\КурсоваРабота\obj\Debug\КурсоваРабота.csproj.GenerateResource.cache
+D:\КурсоваРабота\КурсоваРабота\obj\Debug\КурсоваРабота.csproj.CoreCompileInputs.cache
+D:\КурсоваРабота\КурсоваРабота\obj\Debug\КурсоваРабота.exe
+D:\КурсоваРабота\КурсоваРабота\obj\Debug\КурсоваРабота.pdb
+D:\КурсоваРабота\КурсоваРабота\obj\Debug\КурсоваРабота.Form2.resources
